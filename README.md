@@ -1,7 +1,7 @@
 # PhpTransformers1
 TransformersPHP: Integrating AI Seamlessly in PHP Projects
 
-In this post, I will explore how to translate content programmatically using AI and the TransformersPHP library, building on insights from previous articles, including Roberto Butti's informative guide on DEV Community and the official TransformersPHP documentation. Additionally, I will provide detailed steps on setting up the environment using Laragon, making it easier for developers to configure their local PHP setup for translation tasks. By leveraging these resources, we aim to offer a comprehensive understanding of setting up translation pipelines in PHP, enhancing accessibility and enabling developers to create multilingual applications
+In this post, I will explore how to translate content programmatically using AI and the TransformersPHP library, building on insights from previous articles, including Roberto Butti's informative guide on DEV Community (https://dev.to/robertobutti/how-to-translate-content-programmatically-using-ai-and-transformersphp-48jp) and the official TransformersPHP documentation (https://transformers.codewithkyrian.com/translation). Additionally, I will provide detailed steps on setting up the environment using Laragon, making it easier for developers to configure their local PHP setup for translation tasks. By leveraging these resources, we aim to offer a comprehensive understanding of setting up translation pipelines in PHP, enhancing accessibility and enabling developers to create multilingual applications
 
 # [1] Create a PHP project via Laragon
 
